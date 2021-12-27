@@ -33,4 +33,29 @@
 	- Distributed VCS
 		-Git,Mercruial
 	-Remote (Central) VCS
+
+	### HTML5
+		-hyper text markup language
+		-sematic elements
+			-header
+			-section
+			-article
+			-aside
+			-footer
+			-table
+			
+		-block level elements
+			-h1 to h6 (headings)
+			-paragraph
+			-div
+
+		-inline elements
+			-span
+			-ing
+			-textarea
+			-form
+			-nav
+			-input
+			-legend
+			-supsss
 			
