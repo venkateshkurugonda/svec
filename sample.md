@@ -34,3 +34,7 @@
 		-Git,Mercruial
 	-Remote (Central) VCS
 			
+### git
+-git init
+-git add file name
+-git add filename1
